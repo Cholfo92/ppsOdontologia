@@ -1,0 +1,18 @@
+# Django (back/)
+back/__pycache__/
+back/**/*.pyc
+back/**/migrations/
+back/venv/
+back/env/
+back/.env
+back/db.sqlite3
+back/staticfiles/
+back/media/
+
+# Vue (front/)
+front/node_modules/
+front/dist/
+front/.env
+
+# VSCode config
+.vscode/
